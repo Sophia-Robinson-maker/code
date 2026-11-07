@@ -1,4 +1,4 @@
-"""Reliability-adaptive fusion, matching paper equations (13)--(20)."""
+"""Reliability-adaptive fusion, matching paper equations."""
 
 import torch
 from torch import nn
