@@ -1,4 +1,4 @@
-"""State-conditioned part-aware LoRA on the visual MLP (paper equations 3--5)."""
+"""State-conditioned part-aware LoRA on the visual MLP."""
 
 import math
 import torch
