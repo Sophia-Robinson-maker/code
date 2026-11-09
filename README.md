@@ -23,7 +23,7 @@ This repository provides the core implementation of MFCRAF, a CLIP-based framewo
 
 ## Setup and Evaluation
 
-The core modules are implemented in Python and PyTorch**. Install a compatible PyTorch environment and integrate the modules into a CLIP-based ReID training/evaluation project.
+The core modules are implemented in Python and PyTorch. Install a compatible PyTorch environment and integrate the modules into a CLIP-based ReID training/evaluation project.
 
 An example evaluation command, after integrating the required project utilities and datasets, is:
 
